@@ -28,8 +28,6 @@ We interested in your approach to handling and cleaning the data, so bring your 
 
 For this exercise, **only the “Day Ahead - Value (MW)” for each MTU (Market Time Unit) is relevant**.
 
-This file represents the reality of working with poorly structured data quite well. Before you can dive into analysis, you need to extract only the data from the table which is relevant to the analysis.
-
 # Live Coding Assignment
 
 If there is time after the discussion of your results, there will be a simple live-coding exercise about hydropower dispatch.
