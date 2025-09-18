@@ -4,19 +4,19 @@
 
 You can find both relevant files in the "Take-Home" Folder in this repo:
 
-- **Generation by Type**
-- **Commercial Flows**
+- **Power Generation by Type**
+- **Commercial Flows of Electricity**
 
 ## Instructions
 
-The goal of this exercise is to learn something about power generation and flows in France via **Exploratory Data Analysis (EDA)**.
+The goal of this exercise is to learn something about power generation and flows in France and get a feeling for working with time series data via **Exploratory Data Analysis (EDA)**.
 
-Using Python and your favourite plotting package, create a handful of visualisations or summary statistics to present in the final meeting. Focus on:
+Using Python and your favourite plotting package, create a handful of visualisations or summary statistics to present in the final meeting. Focus on two aspects:
 
 - Generation by type
 - Day-ahead commercial flows *(ignore total flows)*
 
-We interested in your approach to handling and cleaning the data, so bring your code in a presentable format to explain your work steps (e.g. Jupyter Notebook).
+We are interested in your approach to handling and cleaning the data, so bring your code in a presentable format to explain your work steps (e.g. Jupyter Notebook).
 
 ## Hints
 
@@ -30,7 +30,7 @@ For this exercise, **only the “Day Ahead - Value (MW)” for each MTU (Market 
 
 # Live Coding Assignment
 
-If there is time after the discussion of your results, there will be a simple live-coding exercise about hydropower dispatch.
+If there is time after the discussion of your results, we will be doing a simple live-coding exercise about hydropower dispatch.
 
 **Data:**
 
